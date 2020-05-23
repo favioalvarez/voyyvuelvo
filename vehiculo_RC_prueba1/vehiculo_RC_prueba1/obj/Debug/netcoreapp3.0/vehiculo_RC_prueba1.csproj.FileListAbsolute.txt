@@ -1,0 +1,11 @@
+C:\Users\favio\source\repos\vehiculo_RC_prueba1\vehiculo_RC_prueba1\bin\Debug\netcoreapp3.0\vehiculo_RC_prueba1.exe
+C:\Users\favio\source\repos\vehiculo_RC_prueba1\vehiculo_RC_prueba1\bin\Debug\netcoreapp3.0\vehiculo_RC_prueba1.deps.json
+C:\Users\favio\source\repos\vehiculo_RC_prueba1\vehiculo_RC_prueba1\bin\Debug\netcoreapp3.0\vehiculo_RC_prueba1.runtimeconfig.json
+C:\Users\favio\source\repos\vehiculo_RC_prueba1\vehiculo_RC_prueba1\bin\Debug\netcoreapp3.0\vehiculo_RC_prueba1.runtimeconfig.dev.json
+C:\Users\favio\source\repos\vehiculo_RC_prueba1\vehiculo_RC_prueba1\bin\Debug\netcoreapp3.0\vehiculo_RC_prueba1.dll
+C:\Users\favio\source\repos\vehiculo_RC_prueba1\vehiculo_RC_prueba1\bin\Debug\netcoreapp3.0\vehiculo_RC_prueba1.pdb
+C:\Users\favio\source\repos\vehiculo_RC_prueba1\vehiculo_RC_prueba1\obj\Debug\netcoreapp3.0\vehiculo_RC_prueba1.csprojAssemblyReference.cache
+C:\Users\favio\source\repos\vehiculo_RC_prueba1\vehiculo_RC_prueba1\obj\Debug\netcoreapp3.0\vehiculo_RC_prueba1.AssemblyInfoInputs.cache
+C:\Users\favio\source\repos\vehiculo_RC_prueba1\vehiculo_RC_prueba1\obj\Debug\netcoreapp3.0\vehiculo_RC_prueba1.AssemblyInfo.cs
+C:\Users\favio\source\repos\vehiculo_RC_prueba1\vehiculo_RC_prueba1\obj\Debug\netcoreapp3.0\vehiculo_RC_prueba1.dll
+C:\Users\favio\source\repos\vehiculo_RC_prueba1\vehiculo_RC_prueba1\obj\Debug\netcoreapp3.0\vehiculo_RC_prueba1.pdb

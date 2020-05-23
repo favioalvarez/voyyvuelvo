@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "vehiculo_RC_prueba1/1.0.0": {
+        "runtime": {
+          "vehiculo_RC_prueba1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "vehiculo_RC_prueba1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
